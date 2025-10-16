@@ -276,8 +276,9 @@ import kagglehub
 
 # Download the latest version of the dataset
 # This will download the dataset to the Colab environment
-path = kagglehub.dataset_download("pranay13257/f1-dnf-classification")
-
+#path = kagglehub.dataset_download("pranay13257/f1-dnf-classification")
+# Use a local file instead
+path = "f1_dnf(2).csv"
 print("Path to dataset files:", path)
 
 # Filter the DataFrame for completed races
