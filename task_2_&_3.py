@@ -113,7 +113,7 @@ print(f"Mean Absolute Error (MAE): {mae}")
 print(f"Mean Squared Error (MSE): {mse}")
 print(f"R-squared (R2) Score: {r2}")
 
-"""# Formula 1 DNF Classification - Exploratory Data Analysis (EDA)
+r"""# Formula 1 DNF Classification - Exploratory Data Analysis (EDA)
 
 This project performs an initial Exploratory Data Analysis (EDA) on a historical Formula 1 dataset to understand factors influencing whether a driver finishes a race (`target_finish`).
 
