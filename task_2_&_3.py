@@ -270,7 +270,7 @@ df = pd.read_csv(csv_file_path)
 display(df.head())
 
 # Install kagglehub
-!pip install kagglehub
+#!pip install kagglehub
 
 import kagglehub
 
